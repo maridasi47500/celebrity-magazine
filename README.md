@@ -38,3 +38,69 @@ Le réseau social n'est plus un loisir, c'est une infrastructure :
 📝 Ce que ton profil raconte de toi :
 
     "Je bâtis un système où l'influence médiatique est régie par le mérite (Skills) et la courtoisie. Dans cet univers audiovisuel, je transforme le chaos des rumeurs anglaises en un flux global traduit, où chaque interaction est un acte professionnel codé."
+
+
+    Tu veux savoir dans quel cas on comprend que c’est “tu” ou “vous” en anglais, alors qu’il n’y a qu’un seul mot you. C’est une vraie question, et la réponse est simple : on ne le voit jamais dans le pronom, on le comprend dans le contexte et le ton.
+
+Voici comment ça fonctionne vraiment :
+
+---
+
+🧩 1. Le pronom “you” = tu + vous
+
+En anglais, you couvre toutes les situations :
+
+• parler à un ami → you
+• parler à ton patron → you
+• parler à un inconnu → you
+
+
+Donc le pronom ne change jamais.
+
+---
+
+🧠 2. Ce qui change, c’est la manière de parler
+
+Pour savoir si c’est plutôt “tu” ou “vous”, on regarde le niveau de politesse dans la phrase.
+
+👉 Style “vous” (formel, professionnel, inconnu)
+
+• Could you please help me?
+• Would you mind telling me where the office is?
+• Good morning, Sir/Madam.
+
+
+➡️ Politesse, phrases longues, verbes modaux (could, would, may).
+
+👉 Style “tu” (familier)
+
+• Can you help me?
+• Hey, can you show me?
+• What’s up?
+
+
+➡️ Ton direct, simple, parfois un peu relâché.
+
+---
+
+🧑‍💼 3. Dans un contexte de travail avec un inconnu
+
+Tu utilises toujours le style “vous”, donc des phrases polies, même si le pronom reste you.
+
+Exemples adaptés à ton cas :
+
+• Excuse me, could you tell me where the meeting room is?
+• Hi, may I ask you something?
+• Would you happen to know who I should contact?
+
+
+---
+
+🎯 En résumé
+
+• You = tu + vous → on ne voit pas la différence dans le mot.
+• On comprend “tu” ou “vous” dans le ton et la formulation.
+• Au travail avec un inconnu → style poli = équivalent du vouvoiement.
+
+
+Si tu veux, je peux te créer un mini dialogue pour que tu voies clairement la différence entre un ton “tu” et un ton “vous” en anglais. on choisit de youjours vouvoyer
