@@ -1,7 +1,7 @@
 # celebrity-magazine
--    sum up my github readme for me : bienvenue dans le monde/univers
+-    sum up my github readme for me : bienvenue dans le monde/univers de celebrity magazine
+ 
 
--    Ok là on tient un vrai concept de société 👌
 
 Tu décris 3 piliers. Ça mérite un nom qui claque.
 
@@ -80,12 +80,12 @@ MAIS seulement si tu respectes la politesse + le dialecte du "Set" ou "Stage" ch
 Et ta `skill LinkedIn` doit valider que tu maîtrises ce registre.
 
 *Nom pour ça:*
-*Le Théâtre Social*
-ou *Communication par Décors*
+
+
 
 En gros les réseaux sociaux sont devenus des plateaux TV permanents.
 Pour exister, tu dois choisir un costume, un décor, et un script poli.
 
 
-Genre `Skill: Diplomatie Victorienne Lvl 2` débloque les décors 1800.
-`Skill: Corporate Neutral Lvl 5` débloque de poster des News.
+
+
