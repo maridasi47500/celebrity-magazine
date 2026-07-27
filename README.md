@@ -1,106 +1,91 @@
 # celebrity-magazine
--    sum up my github readme for me : bienvenue dans le monde/univers   
+-    sum up my github readme for me : bienvenue dans le monde/univers
 
-  Audiovisuel (pour le mélange son/image) ou, de manière plus large, les   
+-    Ok là on tient un vrai concept de société 👌
 
-  Industries Créatives. ou il y a paparazzi dans la ville, rider de star,   
+Tu décris 3 piliers. Ça mérite un nom qui claque.
 
-  couple, Anglais est la seule langue : autres sont traduite en   
+*Nom de la période: L’Ère du Protocole*
 
-  direct(pour TV, radio, social media, etc). tes formules pour   
+Sous-titre: _Anglais Natif - Traduction Live - Communication Codée_
 
-  parler(anglais) sont toujours polite, ce que tu peux faire dans ton   
+*Les 3 Lois de L’Ère du Protocole:*
 
-  daily life aussi, mais tu peux parler de tout, mais avec un code (en   
+1. *Anglais Natif*: _The Source Language_
+ Toutes les News et Rumeurs naissent en anglais. Pas d’anglais = ça n’existe pas officiellement.
 
-  publiant), ou en parlant que d'1 façon,etc.  il y a des rumeurs. les news sont en anglais, les rumeurs sont en anglais. everyone is LinkedIn, mais aussi "twitter in", "facebook in", etc. et le seul moyen de pouvoir agir dans les médias sociaux est en utilisant une skill que tu as dans linkedin.
- - 🎥 Le Concept : L'Audiovisuel "Total"
+2. *Traduction Live*: _The Live Layer_
+ Ton système traduit instantanément pour la TV, Radio, TikTok In, Facebook In.
+ Tu entends du français, mais la source est toujours `EN`.
 
-Tu évolues dans un monde dédié aux Industries Créatives. C’est une simulation urbaine ou un système de gestion où la culture (son/image) est omniprésente : on y gère des paparazzis, des exigences de stars (riders), et des intrigues de couples célèbres.
- -🌎 Le Filtre Linguistique & Médiatique
+3. *Communication Codée*: _The Code_
+ Fond libre, forme verrouillée.
+ Obligatoire: politesse absolue, formules, vouvoiement, "Dear", "Kind regards", "With respect".
+ Pas de code = pas de publication. Ta `skill LinkedIn` sert de clé.
 
-    Anglais Natif : C'est la langue source unique pour toutes les News et les Rumeurs.
+*Autres noms possibles:*
 
-    Traduction Live : Ton système traduit instantanément ce flux anglais pour la TV, la Radio et les Social Media.
+**Nom**	**Vibe**
+**Ère Source-EN**	Tech, clinique
+**Le Protocole Universel**	Sérieux, politique
+**Standard One**	Corporate, dystopique
+**L’Âge de la Courtoisie Codée**	Littéraire, ironique
+**GlobalIn Protocol**	Réseaux sociaux
 
-    Communication Codée : L'expression est libre sur le fond, mais doit suivre un code strict et une politesse absolue (formules de politesse obligatoires dans le code comme dans la vie).
+*À quoi ça ressemble au quotidien:*
+Tu veux poster une rumeur:
+`EN Source: "There are rumors about the merger."`
+`Live FR: "Des rumeurs circulent concernant la fusion."`
+`Code Check: ✅ "Dear Community, With all due respect, I would like to inquire..."`
+`Skill Required: "Corporate Communication Lvl 3"`
 
-🔗 L'Écosystème "IN" (LinkedIn-isation)
-
-Le réseau social n'est plus un loisir, c'est une infrastructure :
-
-    Plateformes Hybrides : Tout devient une extension professionnelle (Twitter In, Facebook In, etc.).
-
-    Action par la Compétence (Skill) : Pour agir, poster ou influencer sur ces réseaux, tu dois posséder la compétence correspondante validée dans ton profil.
-
-    Communication Directe : En dehors des "Skills", l'interaction se fait via des canaux privés (E-mails, SMS) basés strictement sur ton carnet d'adresses personnel.
-
-📝 Ce que ton profil raconte de toi :
-
-    "Je bâtis un système où l'influence médiatique est régie par le mérite (Skills) et la courtoisie. Dans cet univers audiovisuel, je transforme le chaos des rumeurs anglaises en un flux global traduit, où chaque interaction est un acte professionnel codé."
-
-
-    Tu veux savoir dans quel cas on comprend que c’est “tu” ou “vous” en anglais, alors qu’il n’y a qu’un seul mot you. C’est une vraie question, et la réponse est simple : on ne le voit jamais dans le pronom, on le comprend dans le contexte et le ton.
-
-Voici comment ça fonctionne vraiment :
-
----
-
-🧩 1. Le pronom “you” = tu + vous
-
-En anglais, you couvre toutes les situations :
-
-• parler à un ami → you
-• parler à ton patron → you
-• parler à un inconnu → you
+C’est propre, c’est glacial, et c’est 100% LinkedIn IRL.
 
 
-Donc le pronom ne change jamais.
-
----
-
-🧠 2. Ce qui change, c’est la manière de parler
-
-Pour savoir si c’est plutôt “tu” ou “vous”, on regarde le niveau de politesse dans la phrase.
-
-👉 Style “vous” (formel, professionnel, inconnu)
-
-• Could you please help me?
-• Would you mind telling me where the office is?
-• Good morning, Sir/Madam.
 
 
-➡️ Politesse, phrases longues, verbes modaux (could, would, may).
+Dans *L’Ère du Protocole* on parle plus "normal". On joue un rôle.
 
-👉 Style “tu” (familier)
+C’est du RP social obligatoire. Ta façon de parler dépend de 3 modes:
 
-• Can you help me?
-• Hey, can you show me?
-• What’s up?
+*Les 3 Façons de Parler dans L’Ère du Protocole*
+
+*1. Mode Source: "The Native"*
+Tu es toi-même. Ici et maintenant.
+Règles: Anglais parfait, vouvoiement, politesse max.
+Exemple:
+`Dear Mr. Dupont, With all due respect, may I kindly inquire about the Q3 report?`
+
+*2. Mode Lieu: "The Set"*
+Tu es une personne DANS un endroit réel. Le décor est authentique.
+Tu dois parler comme les gens de cet endroit/époque.
+Exemples:
+- *Café Parisien 1920*: `Cher Monsieur, Auriez-vous l'obligeance de me passer le sucre, je vous prie ?`
+- *Boardroom Tokyo 2025*: `With utmost respect, I humbly request your guidance on this matter.`
+- *Tribunal Anglais Victorien*: `My Lord, if it pleases the court, I would submit that...`
+
+*3. Mode Décor: "The Stage"*
+Tu es dans un lieu décoré pour ressembler à une autre époque/lieu. C’est du théâtre social.
+Tout le monde joue le jeu pour poster.
+Exemples:
+- *Salon Versailles Décor*: `Votre Altesse, daigneriez-vous accorder un instant à ce très humble serviteur ?`
+- *Western Saloon Décor*: `Sir, I do reckon we ought to discuss this matter with the utmost civility.`
+- *Station Spatiale 2080 Décor*: `Captain, with due protocol, requesting permission to address the crew.`
+
+*La Règle d’Or du Code:*
+`Fond Libre + Forme Codée = Publication Autorisée`
+
+Tu peux dire n’importe quelle rumeur/news...
+MAIS seulement si tu respectes la politesse + le dialecte du "Set" ou "Stage" choisi.
+Et ta `skill LinkedIn` doit valider que tu maîtrises ce registre.
+
+*Nom pour ça:*
+*Le Théâtre Social*
+ou *Communication par Décors*
+
+En gros les réseaux sociaux sont devenus des plateaux TV permanents.
+Pour exister, tu dois choisir un costume, un décor, et un script poli.
 
 
-➡️ Ton direct, simple, parfois un peu relâché.
-
----
-
-🧑‍💼 3. Dans un contexte de travail avec un inconnu
-
-Tu utilises toujours le style “vous”, donc des phrases polies, même si le pronom reste you.
-
-Exemples adaptés à ton cas :
-
-• Excuse me, could you tell me where the meeting room is?
-• Hi, may I ask you something?
-• Would you happen to know who I should contact?
-
-
----
-
-🎯 En résumé
-
-• You = tu + vous → on ne voit pas la différence dans le mot.
-• On comprend “tu” ou “vous” dans le ton et la formulation.
-• Au travail avec un inconnu → style poli = équivalent du vouvoiement.
-
-
-Si tu veux, je peux te créer un mini dialogue pour que tu voies clairement la différence entre un ton “tu” et un ton “vous” en anglais. on choisit de youjours vouvoyer
+Genre `Skill: Diplomatie Victorienne Lvl 2` débloque les décors 1800.
+`Skill: Corporate Neutral Lvl 5` débloque de poster des News.
