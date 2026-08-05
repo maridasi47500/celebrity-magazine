@@ -1,4 +1,5 @@
 # celebrity-magazine
+- pip install language_tool_python pyspellchecker englishidioms
 -    sum up my github readme for me : bienvenue dans le monde/univers de celebrity magazine
  
 

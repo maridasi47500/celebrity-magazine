@@ -1,4 +1,8 @@
 from flask import Flask, render_template, request, session
+from englishidioms import find_idioms
+
+import language_tool_python
+from spellchecker import SpellChecker
 import os
 from yourappdb import query_db, get_db
 from flask import g
@@ -164,6 +168,33 @@ def add_one_chatmode():
 
         the_username = "anonyme"
         hey=dict(request.form)
+        spell = SpellChecker()
+        xx=""
+        
+        # find those words that may be misspelled
+        misspelled = spell.unknown(hey['content'].split(" "))
+        sentence=hey['content']
+        results = find_idioms(sentence, limit=10)
+        if len(results) > 0:
+           xx+="I found several idioms, "
+        for x in results:
+           xx+="I found : "+x["phrase"]+", it's: "+x["definition"]+"."
+        if len(misspelled) > 0:
+        
+            xx+="for each word in the misspelled, "
+        
+        for word in misspelled:
+            xx+="for "+word+", "
+            # Get the one `most likely` answer
+            print(spell.correction(word))
+            xx+="the most likely is "+(spell.correction(word))
+        
+            # Get a list of `likely` options
+            xx+="the likely options are "+(spell.candidates(word).join(", "))+"."
+        with language_tool_python.LanguageTool("en-US") as tool:
+            text = hey["content"]
+            xx+=(tool.correct(text))
+            hey["did_you_mean"]=xx
 
 
         tousleslanguage= query_db("select * from language")
