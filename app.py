@@ -1,5 +1,5 @@
 from flask import Flask, render_template, request, session
-from englishidioms import find_idioms
+#from englishidioms import find_idioms #python 3.8
 
 import language_tool_python
 from spellchecker import SpellChecker
@@ -174,23 +174,28 @@ def add_one_chatmode():
         # find those words that may be misspelled
         misspelled = spell.unknown(hey['content'].split(" "))
         sentence=hey['content']
-        results = find_idioms(sentence, limit=10)
-        if len(results) > 0:
-           xx+="I found several idioms, "
-        for x in results:
-           xx+="I found : "+x["phrase"]+", it's: "+x["definition"]+"."
+        #results = find_idioms(sentence, limit=10)
+        #if len(results) > 0:
+        #   xx+="I found several idioms, "
+        #for x in results:
+        #   xx+="I found : "+x["phrase"]+", it's: "+x["definition"]+"."
         if len(misspelled) > 0:
         
             xx+="for each word in the misspelled, "
         
-        for word in misspelled:
-            xx+="for "+word+", "
-            # Get the one `most likely` answer
-            print(spell.correction(word))
-            xx+="the most likely is "+(spell.correction(word))
-        
-            # Get a list of `likely` options
-            xx+="the likely options are "+(spell.candidates(word).join(", "))+"."
+            for word in misspelled:
+                xx+="for "+word+", "
+                # Get the one `most likely` answer
+                print(spell.correction(word))
+                if (spell.correction(word)) is not None:
+                
+                    xx+="the most likely is "+(spell.correction(word))
+            
+                # Get a list of `likely` options
+                if spell.candidates(word) is not None:
+                    for z in spell.candidates(word):
+                       xx+=z+","
+                xx+="."
         with language_tool_python.LanguageTool("en-US") as tool:
             text = hey["content"]
             xx+=(tool.correct(text))
